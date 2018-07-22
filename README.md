@@ -1,0 +1,2 @@
+# Paragrafowka
+Moja gra.
